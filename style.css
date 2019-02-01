@@ -1,18 +1,33 @@
-* {
+main, header, section, aside, footer {
     margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+    padding: rem-cal(20);
+    border: 1px solid #000000;
+    color: #ffffff;
 
 }
 
-.menu-container {
-    color: #fff;
-    background-color: #5995da;
-    padding: 20px 0;
+main {
+    background-color: #000000;
+}
+
+.header {
+    background-color: #03a974;
 
 }
 
-.menu {
-    border: 1px solid #fff;
-    width: 900px
+.hero {
+    background-color: #d22b1f
+}
+
+.content {
+    background-color: #129a22;
+}
+
+.sidebar {
+    border: 1px solid #000000;
+
+}
+
+.footer {
+    border: 1px solid #616161;
 }
