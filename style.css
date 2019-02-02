@@ -127,12 +127,30 @@ footer ul {
 footer ul li {
     display: block;
     list-style: none;
+    line-height: 20px;
     
 }
 
 footer ul li a {
     font-family: Catamaron;
-    font-size: 14px;
+    font-size: 24px;
     color: #fff;
+    line-height: 30px;
 
+}
+
+.footer-links-information {
+    display: none;
+}
+
+.footer-socialmedia {
+
+    width: 60px;
+    float: right;
+}
+
+.footer-socialmedia img {
+
+    width: 100%;
+    margin-bottom: 10px;
 }
