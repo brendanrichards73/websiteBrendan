@@ -56,7 +56,7 @@ header .header-cases {
 .index-banner {
     width: 100%;
     height: 100vh;
-    background-image: url('C:\Users\brend\Pictures\Saved Pictures\Head Shot.jpg');
+    background-image: url("images/headshot.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
