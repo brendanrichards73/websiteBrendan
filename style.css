@@ -18,6 +18,10 @@ header .header-brand {
     font-weight: 900;
     color: #111;
     text-transform: uppercase;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px 0;
 
 }
 
