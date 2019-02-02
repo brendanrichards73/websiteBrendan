@@ -22,9 +22,8 @@ header .header-brand {
 }
 
 header nav ul {
-    display: block;
-    margin: 0 auto;
-    width: fit-content;
+    margin: 20px 0px 0px 20px;
+    float: left;
     }
 
 
@@ -41,12 +40,27 @@ header nav ul li a {
     font-family: Catamaran;
     font-size: 16px;
     color: #111;
+    line-height: 60px;
+    text-transform: uppercase;
 
     }
 
 header .header-cases {
     display: none;
 } 
+
+@media only screen and(min-width: 1000px){
+
+    header .header-brand {
+        margin: 31px 0;
+        text-align: left;
+        line-height: 38px;
+        padding: 0px 20px 0px 40px;
+        border-right: 3px solid #111;
+        float: left;
+    }
+
+}
 /* INDEX*/
 
 .index-banner {
@@ -136,7 +150,7 @@ footer ul li a {
     font-family: Catamaron;
     font-size: 24px;
     color: #fff;
-    line-height: 30px;
+    line-height: 40px;
 
 }
 
