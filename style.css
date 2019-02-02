@@ -65,7 +65,7 @@ header .header-cases {
 
 .index-banner {
     width: 100%;
-    height: calc(100vh-100px);
+    height: 500px;
     background-image: url("images/headshot.jpg");
     background-repeat: no-repeat;
     background-position: center;
