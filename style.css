@@ -169,3 +169,19 @@ footer ul li a {
     width: 100%;
     margin-bottom: 10px;
 }
+
+.index-links div {
+    margin: 10px 10px 0;
+    width: calc(100% - 32px);
+    height: 100px;
+    background-color: #f2f2f2;
+}
+
+.wrapper {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.index-boxlink-square{
+
+}
