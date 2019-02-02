@@ -95,3 +95,14 @@ header .header-cases {
     background-color: #f2f2f2;
 
 }
+
+
+.index-links div h3 {
+    font-family: Catamaran;
+    font-size: 28px;
+    font-weight: 900;
+    line-height: 40px;
+    color: #111;
+    text-align: center;
+    
+}
