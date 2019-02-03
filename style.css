@@ -102,14 +102,15 @@ header .header-brand {
 
 .index-links div {
 
+    display: flex;
     margin: 16px 16px 0;
     height: 100px;
     background-color: #f2f2f2;
 
 }
 
-.index-boxlink-square {
-    width: calc(25%-60px) !important;
+/*.index-boxlink-square {
+    width: calc(25%-60px) !important;*/
 }
 
 .index-links div h3 {
