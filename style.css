@@ -158,13 +158,13 @@ header .header-brand {
 }
 
 .container-3 div {
+    width: 30%;
     border: 1px;
     padding: 10px;
     margin: 10px;
 }
 
 .box-1 {
-    width: 60%;
     flex: 1;
     order: 1;
     padding-top: 20px;
