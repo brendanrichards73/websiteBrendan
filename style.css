@@ -136,6 +136,7 @@ header .header-brand {
     flex: 1;
     order: 1;
     background-color: rgb(224, 241, 223);
+    padding-top: 20px;
 }
 
 
