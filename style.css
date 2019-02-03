@@ -229,6 +229,12 @@ footer ul li a {
 
 .container-1 {
     display: flex;
+       /*
+    align-item: flex-end;
+    align-item: flex-start;
+    flex-direction: column;
+    */
+
 }
 
 .container-1 div {
@@ -240,10 +246,39 @@ footer ul li a {
 .box-1 {
     flex: 1;
     order: 1;
-    /*
+ 
+}
+
+.box-2 {
+    flex: 1;
+    order: 2;
+}
+
+.box-3 {
+    flex: 1;
+    order: 3;
+}
+
+.container-1 {
+    display: flex;
+       /*
     align-item: flex-end;
     align-item: flex-start;
+    flex-direction: column;
     */
+
+}
+
+.container-2 div {
+    border: 1px #ccc solid;
+    padding: 10px;
+
+}
+
+.box-1 {
+    flex: 1;
+    order: 1;
+ 
 }
 
 .box-2 {
