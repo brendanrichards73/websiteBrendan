@@ -177,15 +177,13 @@ header .header-brand {
 
 .box-2 {
     width: 30%;
-    width: 20%;
     flex: 1;
-    order: 2;
+    order: 3;
     justify-content: center;
 }
 
 .box-3 {
     width: 30%;
-    width: 20%;
     flex: 1;
     order: 2;
     padding-top: 20px;
