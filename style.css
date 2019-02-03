@@ -109,8 +109,10 @@ header .header-brand {
 
 }
 
-/*.index-boxlink-square {
-    width: calc(25%-60px) !important;*/
+
+.index-boxlink-square {
+    width: calc(25%-60px) !important;
+    
 }
 
 .index-links div h3 {
