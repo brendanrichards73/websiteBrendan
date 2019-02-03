@@ -156,8 +156,7 @@ header .header-brand {
 .container-3 {
     display: flex;
     align-content: space-between;
-    width: 30%;
-    
+   flex-wrap: wrap;    
 }
 
 .container-3 div {
