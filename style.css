@@ -112,7 +112,7 @@ header .header-brand {
     padding: 10px;
 }
 .box-1 {
-    justify-content: center;
+    justify-content: right;
     font-family: Lucida Sans Unicode;
     flex: 1;
     order: 1;
