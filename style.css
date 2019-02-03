@@ -140,6 +140,8 @@ header .header-brand {
     order: 1;
     background-color: rgb(224, 241, 223);
     padding-top: 20px;
+    font-family: Garamond;
+    font-size: 25px;
 }
 
 .box-1 {
