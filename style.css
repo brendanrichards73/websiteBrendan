@@ -151,10 +151,11 @@ header .header-brand {
     font-size: 20px;
     font-weight: 500;
     color: #111;
+    /*
     text-align: start;
     text-transform: uppercase;
     vertical-align: top;
-    
+    */
 }
 
 /*FOOTER*/
