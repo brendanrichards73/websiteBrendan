@@ -167,7 +167,9 @@ header .header-brand {
     width: 60%;
     flex: 1;
     order: 1;
-    font-size: 18px;
+    padding-top: 20px;
+    font-family: Garamond;
+    font-size: 25px;
 }
 
 .box-2 {
@@ -176,10 +178,13 @@ header .header-brand {
     order: 2;
 }
 
-.box-2 {
+.box-3 {
     width: 20%;
     flex: 1;
     order: 2;
+    padding-top: 20px;
+    font-family: Garamond;
+    font-size: 25px;
 }
 
 .para-1 {
@@ -197,6 +202,7 @@ header .header-brand {
     font-family: Garamond;
     font-size: 25px;
 }
+
 
 
 
