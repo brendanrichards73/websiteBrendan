@@ -116,7 +116,7 @@ header .header-cases {
 }
 
 .index-boxlink-square {
-    width: calc(25%-60px)/*!important*/;
+    width: calc(25%-60px) !important;
 }
 
 .index-links div h3 {
