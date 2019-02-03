@@ -142,11 +142,33 @@ header .header-brand {
     padding-top: 20px;
 }
 
+.container-3 {
+    display: flex;
+}
+
 .container-3 div {
-    width: 30%;
     border: 1px #ccc solid;
     padding: 10px;
     margin: 10px;
+}
+
+.box-1 {
+    width: 60%;
+    flex: 1;
+    order: 1;
+    font-size: 18px;
+}
+
+.box-2 {
+    width: 20%;
+    flex: 1;
+    order: 2;
+}
+
+.box-2 {
+    width: 20%;
+    flex: 1;
+    order: 2;
 }
 
 .para-1 {
