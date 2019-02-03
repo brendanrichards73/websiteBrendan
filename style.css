@@ -152,7 +152,7 @@ header .header-brand {
     font-weight: 500;
     line-height: 100px;
     color: #111;
-    text-align: left;
+    text-align: start
     text-transform: uppercase;
 
 }
