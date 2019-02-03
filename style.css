@@ -259,7 +259,7 @@ footer ul li a {
     order: 3;
 }
 
-.container-1 {
+.container-2 {
     display: flex;
        /*
     align-item: flex-end;
@@ -270,6 +270,7 @@ footer ul li a {
 }
 
 .container-2 div {
+    width: 30%;
     border: 1px #ccc solid;
     padding: 10px;
 
