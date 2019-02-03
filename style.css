@@ -134,6 +134,10 @@ header .header-brand {
     margin: 10px;
 
 }
+.para-1 {
+    font-family: Garamond;
+    font-size: 25px;
+}
 
 .box-1 {
     flex: 1;
