@@ -230,6 +230,7 @@ footer ul li a {
 .container-1 {
     display: flex;
     flex-basis: 40%; 
+    flex-wrap: wrap;
        /*
     align-item: flex-end;
     align-item: flex-start;
@@ -239,7 +240,7 @@ footer ul li a {
 }
 
 .container-1 div {
-    border: 1px #ccc solid;
+    border: 1px #413d3d solid;
     padding: 10px;
 
 }
