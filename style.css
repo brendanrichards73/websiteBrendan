@@ -229,13 +229,12 @@ footer ul li a {
 
 .container-1 {
     display: flex;
-    flex-basis: 40%; 
-    
+      
 
 }
 
 .container-1 div {
-    border: 1px #ccc solid;
+    border: 1px #fff solid;
     padding: 10px;
 
 }
