@@ -180,6 +180,7 @@ header .header-brand {
     width: 20%;
     flex: 1;
     order: 2;
+    justify-content: center;
 }
 
 .box-3 {
