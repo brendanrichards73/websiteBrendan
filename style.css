@@ -113,7 +113,7 @@ header .header-brand {
     flex: 1;
     order: 1;
     font-size: 18px;
-    padding: 10px;
+    padding-top: 10px;
  }
 
 .box-2 {
@@ -129,7 +129,7 @@ header .header-brand {
 .container-2 div {
     width: 30%;
     border: 1px #ccc solid;
-    padding: 10px;
+    padding-top: 10px;
 
 }
 
