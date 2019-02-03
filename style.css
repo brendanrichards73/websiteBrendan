@@ -108,13 +108,14 @@ header .header-brand {
 .container-1 div {
     border: 1px #fff solid;
     padding: 10px;
+    margin: 10px;
+    padding: 10px;
 }
 .box-1 {
     flex: 1;
     order: 1;
     font-size: 18px;
-    padding-top: 10px;
- }
+}
 
 .box-2 {
     flex: 1;
@@ -129,7 +130,8 @@ header .header-brand {
 .container-2 div {
     width: 30%;
     border: 1px #ccc solid;
-    padding-top: 10px;
+    padding: 10px;
+    margin: 10px;
 
 }
 
@@ -140,7 +142,12 @@ header .header-brand {
     padding-top: 20px;
 }
 
-
+.container-3 div {
+    width: 30%;
+    border: 1px #ccc solid;
+    padding: 10px;
+    margin: 10px;
+}
 
 .para-1 {
     font-family: Garamond;
