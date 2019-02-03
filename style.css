@@ -147,7 +147,7 @@ header .header-brand {
 }
 
 .container-3 div {
-    border: 1px #ccc solid;
+    border: 1px;
     padding: 10px;
     margin: 10px;
 }
