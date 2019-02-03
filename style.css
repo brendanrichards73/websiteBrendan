@@ -254,13 +254,10 @@ footer ul li a {
     order: 2;
 }
 
-.box-3 {
-    flex: 1;
-    order: 3;
-}
 
 .container-2 {
     display: flex;
+    justify-content: flex-start;
        /*
     align-item: flex-end;
     align-item: flex-start;
