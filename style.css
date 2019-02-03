@@ -230,17 +230,12 @@ footer ul li a {
 .container-1 {
     display: flex;
     flex-basis: 40%; 
-    flex-wrap: wrap;
-       /*
-    align-item: flex-end;
-    align-item: flex-start;
-    flex-direction: column;
-    */
+    
 
 }
 
 .container-1 div {
-    border: 1px #413d3d solid;
+    border: 1px #ccc solid;
     padding: 10px;
 
 }
