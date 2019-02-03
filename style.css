@@ -246,6 +246,7 @@ footer ul li a {
 .box-1 {
     flex: 1;
     order: 1;
+    font-size: 18px;
  
 }
 
