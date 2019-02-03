@@ -135,6 +135,12 @@ header .header-brand {
 
 }
 
+.box-3 {
+    flex: 1;
+    order: 1;
+    background-color: rgb(224, 241, 223);
+    padding-top: 20px;
+}
 
 .box-1 {
     flex: 1;
