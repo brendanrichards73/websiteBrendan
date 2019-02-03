@@ -229,6 +229,8 @@ footer ul li a {
 
 .container-1 {
     display: flex;
+    justify-content: space-around;
+    flex-basis: 40%;
        /*
     align-item: flex-end;
     align-item: flex-start;
