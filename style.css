@@ -118,36 +118,49 @@ header .header-brand {
     flex: 1;
     border: 1px #ccc solid;
     padding: 10px;
+    text-align: left;
+    text-decoration: none;
+
 }
 
 .index-boxlink-2{
     flex: 2;
     border: 1px #ccc solid;
     padding: 10px;
+    text-align: left;
+    text-decoration: none;
 }
 
 .index-boxlink-3{
     flex: 3;
     border: 1px #ccc solid;
     padding: 10px;
+    text-align: left;
+    text-decoration: none;
 }
 
 .index-boxlink-4{
     flex: 4;
     border: 1px #ccc solid;
     padding: 10px;
+    text-align: left;
+    text-decoration: none;
 }
 
 .index-boxlink-5{
     flex: 5;
     border: 1px #ccc solid;
     padding: 10px;
+    text-align: left;
+    text-decoration: none;
 }
 
 .index-boxlink-6{
     flex: 6;
     border: 1px #ccc solid;
     padding: 10px;
+    text-align: left;
+    text-decoration: none;
 }
 
 
